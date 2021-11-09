@@ -27,4 +27,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
+![Tecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tecode&show_icons=true&theme=dracula)
