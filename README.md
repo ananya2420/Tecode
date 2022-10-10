@@ -1,5 +1,10 @@
 <img alt="Code" width="100%" src="./images/developer.png" />
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img alt="Visitor" src="https://hits.sh/github.com/Tecode/Tecode.svg" />
+Hey! Nice to see you.
+</h1>
+
 
 
 <p>Welcome to my page! </br> I'm Tecode, Fullstack developer from <b>ChenDu, China</b>. </p>
